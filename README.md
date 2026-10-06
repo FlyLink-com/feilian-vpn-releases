@@ -14,7 +14,7 @@
 
 GitHub 自动生成的 “Source code (zip/tar.gz)” 只包含这个资料仓库的文档。完整 Android 对应源码是单独的 `-corresponding-source.zip` 附件；组件许可证、版权声明和重建说明见该附件。
 
-首个正式签名包为 `com.gccwebos.android`，版本 `0.4.0` / versionCode `7`，支持 Android 8.0 及以上。现有 candidate/debug 测试包具有独立身份；正式版首次安装后需自行登录或通过正常入口导入配置。后续正式升级保持同包名和签名。
+正式包名为 `com.gccwebos.android`，支持 Android 8.0 及以上；具体版本以已发布的 Release 和清单为准。现有 candidate/debug 测试包具有独立身份；正式版首次安装后需自行登录或通过正常入口导入配置。后续正式升级保持同包名和签名。
 
 网站：https://gccwebos.com/
 
